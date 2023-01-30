@@ -1,7 +1,8 @@
-def myFunction() :
-  return True
+print (10>3)
+True
 
-if myFunction():
-  print("YES!")
-else:
-  print("NO!")
+print (1==2)
+False
+
+print (22<11)
+False
